@@ -27,6 +27,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elieren&theme=dark)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elieren&color=red" alt="Profile views" />
-</p>
+![Snake animation](https://github.com/Elieren/Elieren/blob/output/github-contribution-grid-snake.svg)
