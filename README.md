@@ -27,4 +27,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elieren&theme=dark)
 
-![snake gif](https://github.com/Elieren/Elieren/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Elieren/Elieren/output/github-contribution-grid-snake-dark.svg)
