@@ -26,3 +26,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elieren&layout=compact&theme=dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elieren&theme=dark)
+
+![snake gif](https://github.com/Elieren/Elieren/output/github-contribution-grid-snake-dark.svg)
