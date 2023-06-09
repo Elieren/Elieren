@@ -16,8 +16,6 @@
 ### Technologies & Frameworks
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/nginx-black.svg?style=for-the-badge&logo=nginx&logoColor=green)
-
-### Frameworks, Platforms and Libraries
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### OS
