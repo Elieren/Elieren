@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=sql)
 
 ### ML/DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black.svg?style=for-the-badge&logo=TensorFlow)
