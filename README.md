@@ -7,6 +7,7 @@
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=blue)
 
 ### ML/DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black.svg?style=for-the-badge&logo=TensorFlow)
