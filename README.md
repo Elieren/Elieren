@@ -4,8 +4,6 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
-![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 
 ### ML/DL
