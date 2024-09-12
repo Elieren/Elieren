@@ -5,6 +5,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white)
 
