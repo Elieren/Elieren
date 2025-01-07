@@ -20,6 +20,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-black.svg?style=for-the-badge&logo=nginx&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-black.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-black.svg?style=for-the-badge&logo=tauri&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
 ![Qt](https://img.shields.io/badge/Qt-black.svg?style=for-the-badge&logo=Qt&logoColor=white)
