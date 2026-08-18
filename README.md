@@ -1,7 +1,5 @@
 ![](header.png)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Elieren&theme=dark)
-
 ### Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
