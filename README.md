@@ -1,6 +1,6 @@
 ![](header.png)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elieren&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Elieren&theme=dark)
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
@@ -31,9 +31,9 @@
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elieren&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Elieren&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elieren&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Elieren&layout=compact&theme=dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elieren&theme=dark)
 
